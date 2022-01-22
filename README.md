@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kart248
+- 👋 Hi, I’m Karthikeyan
 - 👀 I’m interested in data science 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on guvi
